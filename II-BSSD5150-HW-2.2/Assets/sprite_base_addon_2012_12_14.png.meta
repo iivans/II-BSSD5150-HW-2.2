@@ -1,0 +1,6621 @@
+fileFormatVersion: 2
+guid: 563464b175450ab4593b29cc354a5524
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 974
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c4d484ed1cbb2479e86edf61ace3a1
+      internalID: 154269955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 974
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e96f41e82306947abc93ba1fa95a76
+      internalID: 1254084113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 974
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70244b44c165f0643a4e9e49e1b26a67
+      internalID: -1826634810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 974
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedc303d74124cf4195fac652fd1c9a7
+      internalID: 1989583938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 974
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de5f36765b01d34c8aeb3ac79fe5a7f
+      internalID: -1577058950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_5
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 974
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a13e7cb9bf44f40a0034fa42c37262
+      internalID: -994792809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 974
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d872c682bc706ca43a6afea3faf6793e
+      internalID: -1014093142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 974
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ea1c22d2716214aa3e0f6469759025
+      internalID: 1108527673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8e39188cb325747974c2582574a85e
+      internalID: 1758076886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aba74387172cc4eadcf9355549b4fe
+      internalID: 927082057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80747d36d1c5c74887fb9e4574d9e31
+      internalID: 1496558044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35f0cb8938e073428adfcdcb5301193
+      internalID: 1124230348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e33b2c548d8159469dd91cf8148897e
+      internalID: -615220222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf1f98c571d7cf499da78b5003727e8
+      internalID: -1076492967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3882223ac3f342746babafb6d5fc39ad
+      internalID: -800785784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c676ae58809cf746b7a27c438c8dc47
+      internalID: 1392610400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59c374441c3b63468686709169302a3
+      internalID: -580241315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1bccb894603934ea88973b00dd0e3e
+      internalID: -29102126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f656db33a99c44ebdde41d6f5a67ea
+      internalID: -110028638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_19
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd59ba2801022e4f9b0f29374857d1d
+      internalID: 1808410135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 924
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1d1ac50ef1f3949b804570d03ccbc3
+      internalID: 1381109886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5170a40d643980f43928464cbae9035f
+      internalID: 1163900211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44edc4fc440644b4c817ec0d157589ba
+      internalID: -1970682467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274eccd7d801e104a9cff89953c771e0
+      internalID: 1196802616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9779bed9435320242ac3c4ce93a265db
+      internalID: 1168398794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05c518de64f68245a9d80b835260334
+      internalID: 28331387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194baf16b7d635641993004ec644f4ff
+      internalID: -361534945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f17f9177d7cb644287ea7471c4944be
+      internalID: 342099547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_28
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f5c37ac822441408432d9b667b469d
+      internalID: -1157562420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88468b82bff0b004493e547bd9bb9ab2
+      internalID: -973109606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_30
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a008c832c69477b4296512f34e509f81
+      internalID: 2074960976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fefb3ef188f3f47aa3b55bbcadb544
+      internalID: 1128106985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_32
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 874
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ad4408a78f479478917f673dc28e70
+      internalID: -1974283820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789e7d080341a70498a2aa5377a916d0
+      internalID: -729365159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cbf8b110fc5cc4d8891372deb4097c
+      internalID: 451776641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9697da5b672e64142b6da4f1c3a829bc
+      internalID: -876065203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_36
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7913762178aac584f8702448dda70767
+      internalID: 611666378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19675f003820d6a4a8a17d4ce8a28f7d
+      internalID: 1902664274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_38
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e77d7b98f979774281f662f90a38fff
+      internalID: -535132945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ac077e4c10af3479a345ad6fa434be
+      internalID: -1120935914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_40
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbfc7c7eb120c84397eb53790a952fb
+      internalID: 2036297287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b658b9bee06914eb253089387e1042
+      internalID: 332393884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_42
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d28d664936d788498b01d70cb3cd117
+      internalID: -411878950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2c65773ffb7bc49aa7197ef2c1dd8c
+      internalID: 821547468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_44
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f960e508a4395164b8edac75a4b9b756
+      internalID: -1356452356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_45
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f6d113d54a7124c99ea0a4785086b7
+      internalID: 1421656349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_46
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c5c076debfcf745857ca3a00da42ed
+      internalID: -707919276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_47
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aac4b26de3104b48a35a16559dea9ab
+      internalID: 1475491479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_48
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 824
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f6794825ed38442974336ee80d6b50
+      internalID: -772735302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91410f5c4232d79468c9922fa5f3b071
+      internalID: -702172747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_50
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d262f0ede12ee4db413c88a895859f
+      internalID: -1630730872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4448014c0ec5ed43a4dc0a7b0cd8990
+      internalID: 1337260060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_52
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be033187188c56940b85e698ce67b8a2
+      internalID: -381895550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a4cfe689405824ab1a57aaf6690367
+      internalID: 387332036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_54
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f00784c2baad241a9002a1ea2517fb
+      internalID: -1619108442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_55
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5bdd214cf629643bf4eece5aa431d9
+      internalID: 504966051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_56
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a0ba16479221d40bf34523f1aa0f09
+      internalID: 418112844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951d97610365a644b9038230e89a2a76
+      internalID: 1370559276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_58
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c880702952ae56b46ac00a81305092d2
+      internalID: -1746159516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_59
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f012cf4b6745724b85b628a1c0c6dd0
+      internalID: 1228663917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_60
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd38981dd12067408b236bedf792115
+      internalID: 50079987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_61
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb9da1c14e687644b6418804ad7492b
+      internalID: -1515048882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_62
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f716e241550776d4b9b422160db17a6b
+      internalID: -629692639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_63
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f38a06fae5ecf6469155cfd24a5b592
+      internalID: 962164904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_64
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c36ade0b963f249a2c5a04463fee71
+      internalID: 260213434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_65
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c2b66c3026f3247937ab4688ce65b1
+      internalID: 1136328454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_66
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068056e4d6cb83b44935e215785582c7
+      internalID: 1522058782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_67
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 774
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d93e6e8369bad44a4b7861d2edef88
+      internalID: -1789462653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4367fb2902bd2d0419b71bfa7b199fe2
+      internalID: -1035061546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_69
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c5ff4706639644da227b5092b3392a
+      internalID: 1118965885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_70
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c316c88f26ec2d342b6ff71baf235650
+      internalID: 1441140014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_71
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b900ffa84d191c14da837967279e144a
+      internalID: 104819144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1307089317d4354b879b86895e4db11
+      internalID: 1112926785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_73
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222b62e99b807db43b5a256cac32499e
+      internalID: 1250556366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_74
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c23ac857032c5242a60decb3db1ebe6
+      internalID: 1620047707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_75
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4779a56dfd70896449282de7297b05ba
+      internalID: 520606205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_76
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f0a6864a5adb1488cdcc3111c5196c
+      internalID: 1452994319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_77
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d152a03d855ed48adb03f905acfaee
+      internalID: 1584346660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_78
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e52d2df7fafe34ab5cdf4a1dfc917b
+      internalID: 1071427917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_79
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b7f6450b4d81a45808a32f88068bab
+      internalID: -442301764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_80
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbd765fe2772074ab7e690bf5025674
+      internalID: 121898084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_81
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5efbef3a20053549ab699a4b89df419
+      internalID: -816864422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_82
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd9b7d4985260148ace8d404df8d263
+      internalID: -509082586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_83
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a378322e44e4d5f4398b6d8490e2be44
+      internalID: -1753162176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_84
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 724
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5716e51dd10c6e4792903221b3ab88d
+      internalID: 1503916566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4637cdc15295e4479a98f7a74b9d317
+      internalID: -894325538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_86
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf0fb2ce5116444bb5af31ca1b229fe
+      internalID: -1476899187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_87
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b05a0aece995d46a15fd571c0cdf17
+      internalID: 926839584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_88
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0bf1e4f9da9e648b0c45e2dee3880e
+      internalID: -1624210849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_89
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466206a8739ccb0429631170fd27d8b9
+      internalID: -731187058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_90
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4912a866b4ecb4198e71efea8b59c1
+      internalID: 1706065712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_91
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac162dbc47e2cde428975669b9c3b552
+      internalID: -1516205161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_92
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b434157a59dad24fad6fc30d0d2d19a
+      internalID: 1322221281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_93
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90751e3c4a1b3946b7808b91ef0b7d4
+      internalID: 2066992826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_94
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e896aad6cafd84692ac517bd4c9de9
+      internalID: 1294998271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_95
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d474bc006f82e24080abba4740bc29c
+      internalID: 622090627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_96
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 674
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34042b3349d14ba448fa2b0ba3b6e73f
+      internalID: 648199437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0886ab923650e2440aecad6780397658
+      internalID: -2044248845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_98
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843e85799a292c746a29e34a6581c46d
+      internalID: -117963271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_99
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a48ade104aa7e488972b2117810442
+      internalID: -911920805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_100
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d20356635a17d4e8cd350dbce8f83c
+      internalID: 1624850191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_101
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59c1bc1c8dec5c489d21997695b0ca5
+      internalID: -1770018087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_102
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dddb3d2faeaa54e854d3369f46e621
+      internalID: -2108488913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396477e4381272940be523aaafc0fa04
+      internalID: 895743934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_104
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea76fdeff1604fe478451e8d2f6cf72e
+      internalID: 751547512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_105
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dca168d8c4f714f8868da8ce8b0a86
+      internalID: 1886771178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_106
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422342a14b3e3774893aaa84e4dfe330
+      internalID: 509591126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_107
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7360870998051934683a4baaa20efab9
+      internalID: 2039565958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_108
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4009a24cedabf408084376c85a77fe
+      internalID: -553126012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_109
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428f75ba60918f143b2d358323276cc2
+      internalID: 1759941111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_110
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd961c313652e947a55d197cb5be579
+      internalID: -754433505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_111
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ad924f110af3048a682e5642712acb
+      internalID: 609640518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_112
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04caac8c94438834c94566cadcec1a0b
+      internalID: -68639720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_113
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dd132651dfb4440a2dd799c9d3e6c2
+      internalID: 318109853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_114
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a279657eaf10d2941a1796a122ca526b
+      internalID: 1909511207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_115
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 624
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca172a0cbf4c0d347b58accd6ab82220
+      internalID: 210129178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176bd33d8ba4fd94cbaee192b7a6ab28
+      internalID: 1109304610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_117
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5998015ff32cd445a36616555397082
+      internalID: -1916943937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_118
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3db7c18e52e5d4793ef45b86fc699f
+      internalID: 1151331835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_119
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfc7990545bb7a44a583f3793df8ac0
+      internalID: -57410189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_120
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f03136b8b4c3204c8e98c0b8e3d5d66
+      internalID: -1950371059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_121
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681af948ff0b09c4780fe87275402cf9
+      internalID: -2025542555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_122
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300d0dd56476d744ba4333b7e748e5cf
+      internalID: -1803566096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_123
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63169585b75e093458d1bab35a884099
+      internalID: 424886673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_124
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa5ea333c23f7b4384b9c6693b9ece0
+      internalID: -253432853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_125
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfac12d712413343b4fd3bf01031391
+      internalID: 438528779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317b516ed9911a04e9cc44313a8f07fc
+      internalID: -42870801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_127
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e0fc727ba19e04ab8ecd68561cb6b9
+      internalID: -640097734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_128
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebba834ddb80d2e4199ed69dd7a96928
+      internalID: -618095221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_129
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce2fb0615f8f8642a1a00c4869a01da
+      internalID: 1200154779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_130
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 574
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9d867302926854fbe288dd07bda5d6
+      internalID: 1451058827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3385e239306eeea438c041aa68679c51
+      internalID: -974755875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_132
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af06e216fa089147868d90ff916cf4b
+      internalID: -400130772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_133
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb85100257cb2245909376131df0bfe
+      internalID: -1615120015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_134
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45287a4520feb2c4ab067d651ca0256a
+      internalID: 1442618725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_135
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f6173fa63488344b5328b7e6e66a65
+      internalID: -358896225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_136
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931e3ad82b0f24044ad80a5d0eddfb51
+      internalID: -1135524381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_137
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f91d7f20c7fa34b97ce0c8f01d66ca
+      internalID: 269195985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_138
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd4c8814ae63db4783f768e31dbff51
+      internalID: -1125177848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_139
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5344284762f474995a096f1d7fa187
+      internalID: -1654865296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_140
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85206c28ba1376b4faf6c90a3403ab4a
+      internalID: -2100578053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_141
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f959ae2e4b96444a69ccb501b469f5
+      internalID: -2102615822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_142
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eba73e68c87cd4689d3615de0d1f0e
+      internalID: 509913012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_143
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a51128fe46a224f9e77e3638e800d6
+      internalID: 1527161575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_144
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229b01c8f8a66f5419b1c950a2d69d27
+      internalID: 1700622090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_145
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c5042c701bd1b4db0ee40b80441f8f
+      internalID: 764395512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_146
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f4aaa96334f8d44aa3f8260bbd499c
+      internalID: -1147987071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_147
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa67213c0d2bcc43810e467de037e72
+      internalID: 1625218653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_148
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adb3a1f230b5ad47a259dddea436119
+      internalID: -1206813241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_149
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 524
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94baa11fc77c874a82d94e4e4e74576
+      internalID: -527088224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0da6da77586c4b44928f20a3886a5f8
+      internalID: 1471290150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_151
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29267f0e7a35f541943a4ee60bfe614
+      internalID: -1530641714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_152
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b023e12cea2f1544adbc1f053b1bc0a
+      internalID: 264643253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_153
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8578c060675a8409c60aa47587780b
+      internalID: -838345092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_154
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178b01058570dec4d81dc3b779c0ba41
+      internalID: 578658731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_155
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322021f00e75e0149bbd92e8604058a0
+      internalID: -1106399140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_156
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc964b1f20277bd429a3f77fa5a4bb36
+      internalID: -1278970338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_157
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048443462334710489dc241f3dba03d8
+      internalID: 579353593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_158
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30945e9351cc7d4287173ab43c34109
+      internalID: 1279915598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_159
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8443173c016918469ae77f169d30875
+      internalID: -1755197205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_160
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2213db42cf2573f4c8a0a746c691ea5e
+      internalID: 1086927222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_161
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ed137c0172a42418c74ba418228c6a
+      internalID: 533228954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_162
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a355af6e0f4314583ee1ff2868fdb5
+      internalID: 1845632219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_163
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a469bfddbb02d4d9f268e9dcc3ca83
+      internalID: 1396967227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_164
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c49241b9aa4cc048963f4cbd9f32c4f
+      internalID: 1170891147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_165
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae79e38097b6ce44da8f83900945c23d
+      internalID: 30120410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_166
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14323e4357d35f7468dcafc6c2e46843
+      internalID: 60889194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_167
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 474
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce150446c1b98e34fbae358a96a0dcd2
+      internalID: 813697466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8126bd977f646ac46a66ef9a58c0bfe6
+      internalID: 153850724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_169
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7243bcc60c66324fb19465007cd288e
+      internalID: 601780905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_170
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d92de5757100e94ab6a303ec1532f73
+      internalID: -1989127573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_171
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047560684e2821548bef41d5e8124701
+      internalID: 120578162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_172
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca0e0d585c9d9944b272577c1355bc2
+      internalID: 899538319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_173
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89bdc4480f520340a32f7818116e33b
+      internalID: -1051449551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_174
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823cdbb47d7ee21459aff995e2067999
+      internalID: 447725984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_175
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca714fa64079f874f9ee780211aa049d
+      internalID: 1975792522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_176
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a0607f146701b47a0b76a41cc5e8e3
+      internalID: 411147264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_177
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dec150298fcfc544a9553c64f761c6b
+      internalID: 1327333358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_178
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea0a7183c403634b9291202a4803210
+      internalID: -1818390462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_179
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa5f604fc873ca489903e09ac00ec9a
+      internalID: 1983358698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_180
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01c372fcae9b0e488b0bd3176f55568
+      internalID: -1608287544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_181
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fc96eb410d7514db800a946ad77c9d
+      internalID: 1203296130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_182
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789cedd2dad457442ac8fd07b451eb85
+      internalID: 235995239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_183
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1635f04c8c9b7044caaeaebb9debe556
+      internalID: 1734496944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_184
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 424
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ba2d964cb0d843b172e9e1643827a
+      internalID: 979965085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19db8f1c15927541b85aefdaa11311f
+      internalID: -850833881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_186
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14c4b70c70b1ec4bb4e86d3bbe6d1f4
+      internalID: -2036219645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_187
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efabe46f54465d3419f8b3ef9603c988
+      internalID: -1669417673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_188
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393d247f047989f4fa30c36217101ae9
+      internalID: 1498625893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_189
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42704562baa7e5340a85ae90f2d3e255
+      internalID: -1405224552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_190
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a5ed9bd1a5fc544b8f416ed7133a40
+      internalID: 829819973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_191
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abc347bd76c45848949ea5ae87a19c5
+      internalID: 337394896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_192
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1c096b5fc4d9d45bedac0460c02821
+      internalID: -1433613839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_193
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4642c3ab19f7f03439728d964689804d
+      internalID: -484920626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_194
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d685002e9291de47aefe1b8cc2abe0d
+      internalID: -1531209326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_195
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac87cdd6e5b8ae74db5fded8fa737732
+      internalID: -140354638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_196
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f662223157467de4e89330535697d315
+      internalID: 967185909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_197
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c0a3410c79b7448bc326cc73338e6e
+      internalID: 1074113517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_198
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd54a95e8213994abbfbaa32cc99ab7
+      internalID: -402831931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_199
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8b83e476008344f8d9ec7a8440f3f2
+      internalID: -1646918159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_200
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 374
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f999658c5be557545aad8f02b01dda8e
+      internalID: -1567961020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_201
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac95160ccc55794d8e369a0a76aef2e
+      internalID: -800686368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_202
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00791928ecabd704c8b611f501caa338
+      internalID: 1568776866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_203
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47308ba3bbd664409db295bac9488f7
+      internalID: -1101454768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_204
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b81da59c16eee409bc36a5826de697
+      internalID: -241911583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_205
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f2d4bcf0c705c4a869822ef512b610
+      internalID: -1557881174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_206
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d3232833cb8244fb7bd246c236eade
+      internalID: 1758804187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_207
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3163c929542d8de49bac71d6cd2609b5
+      internalID: 1879659979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_208
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee5f3e9fe093074b8d8e7e20e730111
+      internalID: 479955762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_209
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6b2d506a375d04d9076daceb16c09c
+      internalID: -1970328408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_210
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df78d1745a1dd741b52aa4a14c887ed
+      internalID: -1461355092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_211
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5600fe846edf743a0818e0ad7da729
+      internalID: -571207947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_212
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52a31f768d7acb469a6d7ebc74ea81e
+      internalID: 589250326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_213
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c16b631bb184f4f96bd052cb3b54fd
+      internalID: 1463594006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_214
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6b8bcd801585548b6fb8517c632520
+      internalID: 1094745310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_215
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cc2f7643c02bb44a1384a432926287
+      internalID: -1855598133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_216
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63526c0efba27fc49a06cc65b9097490
+      internalID: 1131635279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_217
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70739bff38275ea42b76728943339abe
+      internalID: 2085518966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_218
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 324
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8e77f1cc8035c4da577092d5a0cb2a
+      internalID: -2142705515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_219
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b673191b3f53bb429b83f0ba2144957
+      internalID: 823274990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_220
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab667871af3a2c542991477b466beaa2
+      internalID: -170024618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_221
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b637edec3d1ac6048b17b50d50f9fc9a
+      internalID: 2116406561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_222
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7865bc13c6f18bf4082a31e8a2822db4
+      internalID: 1169350117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_223
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a942887676585489c319fbb8d0e3b9
+      internalID: -811811915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_224
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d9d9b26a115974aaff4c4757d31285
+      internalID: -669700799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_225
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233f65d3e0d93ac4ba98e266c66a5960
+      internalID: -826954113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_226
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b2d60be59138e449aef04f9f4f20e2
+      internalID: -1160664740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_227
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777a3c068e70b6c4a8467af7dbd21e02
+      internalID: -2095663980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_228
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e948bc9ed141546ad184096b6d92c3
+      internalID: 2116592675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_229
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 274
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152b52c852b3fa84fa3d4c322dcb1ad0
+      internalID: 665390553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2101649611417d47910e9f0133c2ae4
+      internalID: -337164513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_231
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cbf2b1c3ea62540aa512182847e074
+      internalID: -708677264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_232
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cafdd2d703899c4c873a3c413fb0303
+      internalID: -1543517487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_233
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e5473f7d85500479b34c67b3e6ae33
+      internalID: -368141771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_234
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f13ec81bb63802419fd68349f9d4b39
+      internalID: -2034695129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_235
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5664447383483b4b82249431c7eeb12
+      internalID: -2132137606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_236
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226df9a17294b2041a44d092c2d680e9
+      internalID: -2014199340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_237
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221baba46b7b9aa4b9f1c82c17302364
+      internalID: 213450410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_238
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53f5a648b22cc14d8a5dd0ebb4728b8
+      internalID: -80393260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_239
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3df08c617d951e4280d200932f5579f
+      internalID: -73860106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_240
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc1805c42226d24fa4493d1ef7106a9
+      internalID: -1848460081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_241
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fe84187377c534ea5136f94b972e95
+      internalID: 299941882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_242
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9970ffac3c228c34e9d1e6499a2f4589
+      internalID: 787663545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_243
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13409f8eec36c8b4484026be604089fd
+      internalID: -167439631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_244
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a868a925c0f8c44a4a125859c6c0cb
+      internalID: 267048982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_245
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea98e00adb62154b81c44dd50643598
+      internalID: -664559318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_246
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96249979de5b9c74881e701919e941f1
+      internalID: -986431359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_247
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff21970a98cc8a642b128424867e9fdb
+      internalID: 1481298536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_248
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23445ee973c5cc543806bee8c823e441
+      internalID: 185722462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_249
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f05ee5294a596044902f578db7937ee
+      internalID: 604303168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_250
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92413fa2ee5f9e34887b9dfb25fa243e
+      internalID: -1936061671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_251
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8a2199fbe671a4b822939991b03d49
+      internalID: -2083783361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_252
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a379d2c906cdc49bad441dcccfe335
+      internalID: -1304697339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_253
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9154b9930c0446b49b5a8e2eaf12cd00
+      internalID: -221948702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_254
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d7a4e50e934d44598035d49166d6a0
+      internalID: 1873807297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_255
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65af5efec52414749996fdbd85269587
+      internalID: -174938497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_256
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 174
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b97486c37f35d947855c015d065f82a
+      internalID: 722504926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_257
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b687d85a5b74784789984a4be25c94d
+      internalID: -1463847811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_258
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fbec97aea195347958539670475b0e
+      internalID: 1275547859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_259
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38647a7754c95844ebf1656b6369eb2a
+      internalID: 19583554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_260
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1992ccb8095372c478b963c5142e20da
+      internalID: 42684247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_261
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01c6c7e9abda31458c65e4e519d2896
+      internalID: 2097193009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_262
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf405ab25b201449bf5e04387b7cacd
+      internalID: -2116011441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_263
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff24ff3e2213a0479c90ed8b9d95bec
+      internalID: 1729448078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_264
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000f8ea45853708438df1ccc5cecdad3
+      internalID: -23971809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_265
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737587bf1a9b13242831ca278292f7a4
+      internalID: -2103662136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_266
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edcc8fed7c62f54cbfbf8567007ef1e
+      internalID: -822568563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_267
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0c2114d02da604f94a3ebcac6f724e
+      internalID: -351988818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_268
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e67879bb249c84d96fec626f0d0fb5
+      internalID: -1542799244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_269
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c619f23cb1011de4697ee9f45baa727c
+      internalID: -710765700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_270
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 124
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c198acf6390ca46ba53e675a53afbb
+      internalID: 793306794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_271
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3572a0149351f4c932b03733cba61b
+      internalID: -288438125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_272
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc1d779ca3ab5e44a81f431223b0977
+      internalID: 633900492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_273
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac49d72881fbe5e4ab5307364ac2b50e
+      internalID: -939220308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_274
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a0fbad618fda94da91ae41deb59f04
+      internalID: -1003652482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_275
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ba19d118791cc46a6fda4804885c2b
+      internalID: -364346876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_276
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3185023b415449c4aaed69c7b09a5a9e
+      internalID: -1188955710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_277
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0d753f0ede8dc4d9f4b0287c175c01
+      internalID: -1296508925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_278
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e8a183c618be04a88d9b05b3a73434
+      internalID: 710846281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_279
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48b5767f380f1c4baf4ce6f823b2a2e
+      internalID: 1144073689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_280
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6e762213963a34d8d37e8e7eea04bb
+      internalID: 871037056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_281
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71366c44110e4804ab465c0045ac2020
+      internalID: 13028988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_282
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf8c6bcb3b4d394b9a875fd0268a9a9
+      internalID: -1367789858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_283
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 74
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73b10cbdc23c9249a21e1103c566016
+      internalID: -903652540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_284
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa031355a711e043a36bdc8bb4bb75c
+      internalID: 1416831293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_285
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 24
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48feefb1b7f398b4bb523a819ccf0062
+      internalID: 1888222609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_286
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 24
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0e1145dfadead4f8ee134448f22172
+      internalID: -271414898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_287
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 24
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7adc2b71aa6ec41aa2513e0bfc0091
+      internalID: -988299775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_288
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 24
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a73e195b5167844bd1bb3e1451cc25
+      internalID: 1639642589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_289
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 24
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24e056c66e00b54ca6711fc6530712b
+      internalID: 1621501663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_290
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 24
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65be43c415b124147a4c412680df8120
+      internalID: 582236828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_291
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 24
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf825593d3d4484a9da9e842717c14f
+      internalID: 40747159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_292
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 24
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b40558aea6f7df46814ae53be994f69
+      internalID: 974192449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_base_addon_2012_12_14_293
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 24
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90813c73ebfb02544a23fc47082a3b5b
+      internalID: -330247441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprite_base_addon_2012_12_14_0: 154269955
+      sprite_base_addon_2012_12_14_1: 1254084113
+      sprite_base_addon_2012_12_14_10: 1496558044
+      sprite_base_addon_2012_12_14_100: 1624850191
+      sprite_base_addon_2012_12_14_101: -1770018087
+      sprite_base_addon_2012_12_14_102: -2108488913
+      sprite_base_addon_2012_12_14_103: 895743934
+      sprite_base_addon_2012_12_14_104: 751547512
+      sprite_base_addon_2012_12_14_105: 1886771178
+      sprite_base_addon_2012_12_14_106: 509591126
+      sprite_base_addon_2012_12_14_107: 2039565958
+      sprite_base_addon_2012_12_14_108: -553126012
+      sprite_base_addon_2012_12_14_109: 1759941111
+      sprite_base_addon_2012_12_14_11: 1124230348
+      sprite_base_addon_2012_12_14_110: -754433505
+      sprite_base_addon_2012_12_14_111: 609640518
+      sprite_base_addon_2012_12_14_112: -68639720
+      sprite_base_addon_2012_12_14_113: 318109853
+      sprite_base_addon_2012_12_14_114: 1909511207
+      sprite_base_addon_2012_12_14_115: 210129178
+      sprite_base_addon_2012_12_14_116: 1109304610
+      sprite_base_addon_2012_12_14_117: -1916943937
+      sprite_base_addon_2012_12_14_118: 1151331835
+      sprite_base_addon_2012_12_14_119: -57410189
+      sprite_base_addon_2012_12_14_12: -615220222
+      sprite_base_addon_2012_12_14_120: -1950371059
+      sprite_base_addon_2012_12_14_121: -2025542555
+      sprite_base_addon_2012_12_14_122: -1803566096
+      sprite_base_addon_2012_12_14_123: 424886673
+      sprite_base_addon_2012_12_14_124: -253432853
+      sprite_base_addon_2012_12_14_125: 438528779
+      sprite_base_addon_2012_12_14_126: -42870801
+      sprite_base_addon_2012_12_14_127: -640097734
+      sprite_base_addon_2012_12_14_128: -618095221
+      sprite_base_addon_2012_12_14_129: 1200154779
+      sprite_base_addon_2012_12_14_13: -1076492967
+      sprite_base_addon_2012_12_14_130: 1451058827
+      sprite_base_addon_2012_12_14_131: -974755875
+      sprite_base_addon_2012_12_14_132: -400130772
+      sprite_base_addon_2012_12_14_133: -1615120015
+      sprite_base_addon_2012_12_14_134: 1442618725
+      sprite_base_addon_2012_12_14_135: -358896225
+      sprite_base_addon_2012_12_14_136: -1135524381
+      sprite_base_addon_2012_12_14_137: 269195985
+      sprite_base_addon_2012_12_14_138: -1125177848
+      sprite_base_addon_2012_12_14_139: -1654865296
+      sprite_base_addon_2012_12_14_14: -800785784
+      sprite_base_addon_2012_12_14_140: -2100578053
+      sprite_base_addon_2012_12_14_141: -2102615822
+      sprite_base_addon_2012_12_14_142: 509913012
+      sprite_base_addon_2012_12_14_143: 1527161575
+      sprite_base_addon_2012_12_14_144: 1700622090
+      sprite_base_addon_2012_12_14_145: 764395512
+      sprite_base_addon_2012_12_14_146: -1147987071
+      sprite_base_addon_2012_12_14_147: 1625218653
+      sprite_base_addon_2012_12_14_148: -1206813241
+      sprite_base_addon_2012_12_14_149: -527088224
+      sprite_base_addon_2012_12_14_15: 1392610400
+      sprite_base_addon_2012_12_14_150: 1471290150
+      sprite_base_addon_2012_12_14_151: -1530641714
+      sprite_base_addon_2012_12_14_152: 264643253
+      sprite_base_addon_2012_12_14_153: -838345092
+      sprite_base_addon_2012_12_14_154: 578658731
+      sprite_base_addon_2012_12_14_155: -1106399140
+      sprite_base_addon_2012_12_14_156: -1278970338
+      sprite_base_addon_2012_12_14_157: 579353593
+      sprite_base_addon_2012_12_14_158: 1279915598
+      sprite_base_addon_2012_12_14_159: -1755197205
+      sprite_base_addon_2012_12_14_16: -580241315
+      sprite_base_addon_2012_12_14_160: 1086927222
+      sprite_base_addon_2012_12_14_161: 533228954
+      sprite_base_addon_2012_12_14_162: 1845632219
+      sprite_base_addon_2012_12_14_163: 1396967227
+      sprite_base_addon_2012_12_14_164: 1170891147
+      sprite_base_addon_2012_12_14_165: 30120410
+      sprite_base_addon_2012_12_14_166: 60889194
+      sprite_base_addon_2012_12_14_167: 813697466
+      sprite_base_addon_2012_12_14_168: 153850724
+      sprite_base_addon_2012_12_14_169: 601780905
+      sprite_base_addon_2012_12_14_17: -29102126
+      sprite_base_addon_2012_12_14_170: -1989127573
+      sprite_base_addon_2012_12_14_171: 120578162
+      sprite_base_addon_2012_12_14_172: 899538319
+      sprite_base_addon_2012_12_14_173: -1051449551
+      sprite_base_addon_2012_12_14_174: 447725984
+      sprite_base_addon_2012_12_14_175: 1975792522
+      sprite_base_addon_2012_12_14_176: 411147264
+      sprite_base_addon_2012_12_14_177: 1327333358
+      sprite_base_addon_2012_12_14_178: -1818390462
+      sprite_base_addon_2012_12_14_179: 1983358698
+      sprite_base_addon_2012_12_14_18: -110028638
+      sprite_base_addon_2012_12_14_180: -1608287544
+      sprite_base_addon_2012_12_14_181: 1203296130
+      sprite_base_addon_2012_12_14_182: 235995239
+      sprite_base_addon_2012_12_14_183: 1734496944
+      sprite_base_addon_2012_12_14_184: 979965085
+      sprite_base_addon_2012_12_14_185: -850833881
+      sprite_base_addon_2012_12_14_186: -2036219645
+      sprite_base_addon_2012_12_14_187: -1669417673
+      sprite_base_addon_2012_12_14_188: 1498625893
+      sprite_base_addon_2012_12_14_189: -1405224552
+      sprite_base_addon_2012_12_14_19: 1808410135
+      sprite_base_addon_2012_12_14_190: 829819973
+      sprite_base_addon_2012_12_14_191: 337394896
+      sprite_base_addon_2012_12_14_192: -1433613839
+      sprite_base_addon_2012_12_14_193: -484920626
+      sprite_base_addon_2012_12_14_194: -1531209326
+      sprite_base_addon_2012_12_14_195: -140354638
+      sprite_base_addon_2012_12_14_196: 967185909
+      sprite_base_addon_2012_12_14_197: 1074113517
+      sprite_base_addon_2012_12_14_198: -402831931
+      sprite_base_addon_2012_12_14_199: -1646918159
+      sprite_base_addon_2012_12_14_2: -1826634810
+      sprite_base_addon_2012_12_14_20: 1381109886
+      sprite_base_addon_2012_12_14_200: -1567961020
+      sprite_base_addon_2012_12_14_201: -800686368
+      sprite_base_addon_2012_12_14_202: 1568776866
+      sprite_base_addon_2012_12_14_203: -1101454768
+      sprite_base_addon_2012_12_14_204: -241911583
+      sprite_base_addon_2012_12_14_205: -1557881174
+      sprite_base_addon_2012_12_14_206: 1758804187
+      sprite_base_addon_2012_12_14_207: 1879659979
+      sprite_base_addon_2012_12_14_208: 479955762
+      sprite_base_addon_2012_12_14_209: -1970328408
+      sprite_base_addon_2012_12_14_21: 1163900211
+      sprite_base_addon_2012_12_14_210: -1461355092
+      sprite_base_addon_2012_12_14_211: -571207947
+      sprite_base_addon_2012_12_14_212: 589250326
+      sprite_base_addon_2012_12_14_213: 1463594006
+      sprite_base_addon_2012_12_14_214: 1094745310
+      sprite_base_addon_2012_12_14_215: -1855598133
+      sprite_base_addon_2012_12_14_216: 1131635279
+      sprite_base_addon_2012_12_14_217: 2085518966
+      sprite_base_addon_2012_12_14_218: -2142705515
+      sprite_base_addon_2012_12_14_219: 823274990
+      sprite_base_addon_2012_12_14_22: -1970682467
+      sprite_base_addon_2012_12_14_220: -170024618
+      sprite_base_addon_2012_12_14_221: 2116406561
+      sprite_base_addon_2012_12_14_222: 1169350117
+      sprite_base_addon_2012_12_14_223: -811811915
+      sprite_base_addon_2012_12_14_224: -669700799
+      sprite_base_addon_2012_12_14_225: -826954113
+      sprite_base_addon_2012_12_14_226: -1160664740
+      sprite_base_addon_2012_12_14_227: -2095663980
+      sprite_base_addon_2012_12_14_228: 2116592675
+      sprite_base_addon_2012_12_14_229: 665390553
+      sprite_base_addon_2012_12_14_23: 1196802616
+      sprite_base_addon_2012_12_14_230: -337164513
+      sprite_base_addon_2012_12_14_231: -708677264
+      sprite_base_addon_2012_12_14_232: -1543517487
+      sprite_base_addon_2012_12_14_233: -368141771
+      sprite_base_addon_2012_12_14_234: -2034695129
+      sprite_base_addon_2012_12_14_235: -2132137606
+      sprite_base_addon_2012_12_14_236: -2014199340
+      sprite_base_addon_2012_12_14_237: 213450410
+      sprite_base_addon_2012_12_14_238: -80393260
+      sprite_base_addon_2012_12_14_239: -73860106
+      sprite_base_addon_2012_12_14_24: 1168398794
+      sprite_base_addon_2012_12_14_240: -1848460081
+      sprite_base_addon_2012_12_14_241: 299941882
+      sprite_base_addon_2012_12_14_242: 787663545
+      sprite_base_addon_2012_12_14_243: -167439631
+      sprite_base_addon_2012_12_14_244: 267048982
+      sprite_base_addon_2012_12_14_245: -664559318
+      sprite_base_addon_2012_12_14_246: -986431359
+      sprite_base_addon_2012_12_14_247: 1481298536
+      sprite_base_addon_2012_12_14_248: 185722462
+      sprite_base_addon_2012_12_14_249: 604303168
+      sprite_base_addon_2012_12_14_25: 28331387
+      sprite_base_addon_2012_12_14_250: -1936061671
+      sprite_base_addon_2012_12_14_251: -2083783361
+      sprite_base_addon_2012_12_14_252: -1304697339
+      sprite_base_addon_2012_12_14_253: -221948702
+      sprite_base_addon_2012_12_14_254: 1873807297
+      sprite_base_addon_2012_12_14_255: -174938497
+      sprite_base_addon_2012_12_14_256: 722504926
+      sprite_base_addon_2012_12_14_257: -1463847811
+      sprite_base_addon_2012_12_14_258: 1275547859
+      sprite_base_addon_2012_12_14_259: 19583554
+      sprite_base_addon_2012_12_14_26: -361534945
+      sprite_base_addon_2012_12_14_260: 42684247
+      sprite_base_addon_2012_12_14_261: 2097193009
+      sprite_base_addon_2012_12_14_262: -2116011441
+      sprite_base_addon_2012_12_14_263: 1729448078
+      sprite_base_addon_2012_12_14_264: -23971809
+      sprite_base_addon_2012_12_14_265: -2103662136
+      sprite_base_addon_2012_12_14_266: -822568563
+      sprite_base_addon_2012_12_14_267: -351988818
+      sprite_base_addon_2012_12_14_268: -1542799244
+      sprite_base_addon_2012_12_14_269: -710765700
+      sprite_base_addon_2012_12_14_27: 342099547
+      sprite_base_addon_2012_12_14_270: 793306794
+      sprite_base_addon_2012_12_14_271: -288438125
+      sprite_base_addon_2012_12_14_272: 633900492
+      sprite_base_addon_2012_12_14_273: -939220308
+      sprite_base_addon_2012_12_14_274: -1003652482
+      sprite_base_addon_2012_12_14_275: -364346876
+      sprite_base_addon_2012_12_14_276: -1188955710
+      sprite_base_addon_2012_12_14_277: -1296508925
+      sprite_base_addon_2012_12_14_278: 710846281
+      sprite_base_addon_2012_12_14_279: 1144073689
+      sprite_base_addon_2012_12_14_28: -1157562420
+      sprite_base_addon_2012_12_14_280: 871037056
+      sprite_base_addon_2012_12_14_281: 13028988
+      sprite_base_addon_2012_12_14_282: -1367789858
+      sprite_base_addon_2012_12_14_283: -903652540
+      sprite_base_addon_2012_12_14_284: 1416831293
+      sprite_base_addon_2012_12_14_285: 1888222609
+      sprite_base_addon_2012_12_14_286: -271414898
+      sprite_base_addon_2012_12_14_287: -988299775
+      sprite_base_addon_2012_12_14_288: 1639642589
+      sprite_base_addon_2012_12_14_289: 1621501663
+      sprite_base_addon_2012_12_14_29: -973109606
+      sprite_base_addon_2012_12_14_290: 582236828
+      sprite_base_addon_2012_12_14_291: 40747159
+      sprite_base_addon_2012_12_14_292: 974192449
+      sprite_base_addon_2012_12_14_293: -330247441
+      sprite_base_addon_2012_12_14_3: 1989583938
+      sprite_base_addon_2012_12_14_30: 2074960976
+      sprite_base_addon_2012_12_14_31: 1128106985
+      sprite_base_addon_2012_12_14_32: -1974283820
+      sprite_base_addon_2012_12_14_33: -729365159
+      sprite_base_addon_2012_12_14_34: 451776641
+      sprite_base_addon_2012_12_14_35: -876065203
+      sprite_base_addon_2012_12_14_36: 611666378
+      sprite_base_addon_2012_12_14_37: 1902664274
+      sprite_base_addon_2012_12_14_38: -535132945
+      sprite_base_addon_2012_12_14_39: -1120935914
+      sprite_base_addon_2012_12_14_4: -1577058950
+      sprite_base_addon_2012_12_14_40: 2036297287
+      sprite_base_addon_2012_12_14_41: 332393884
+      sprite_base_addon_2012_12_14_42: -411878950
+      sprite_base_addon_2012_12_14_43: 821547468
+      sprite_base_addon_2012_12_14_44: -1356452356
+      sprite_base_addon_2012_12_14_45: 1421656349
+      sprite_base_addon_2012_12_14_46: -707919276
+      sprite_base_addon_2012_12_14_47: 1475491479
+      sprite_base_addon_2012_12_14_48: -772735302
+      sprite_base_addon_2012_12_14_49: -702172747
+      sprite_base_addon_2012_12_14_5: -994792809
+      sprite_base_addon_2012_12_14_50: -1630730872
+      sprite_base_addon_2012_12_14_51: 1337260060
+      sprite_base_addon_2012_12_14_52: -381895550
+      sprite_base_addon_2012_12_14_53: 387332036
+      sprite_base_addon_2012_12_14_54: -1619108442
+      sprite_base_addon_2012_12_14_55: 504966051
+      sprite_base_addon_2012_12_14_56: 418112844
+      sprite_base_addon_2012_12_14_57: 1370559276
+      sprite_base_addon_2012_12_14_58: -1746159516
+      sprite_base_addon_2012_12_14_59: 1228663917
+      sprite_base_addon_2012_12_14_6: -1014093142
+      sprite_base_addon_2012_12_14_60: 50079987
+      sprite_base_addon_2012_12_14_61: -1515048882
+      sprite_base_addon_2012_12_14_62: -629692639
+      sprite_base_addon_2012_12_14_63: 962164904
+      sprite_base_addon_2012_12_14_64: 260213434
+      sprite_base_addon_2012_12_14_65: 1136328454
+      sprite_base_addon_2012_12_14_66: 1522058782
+      sprite_base_addon_2012_12_14_67: -1789462653
+      sprite_base_addon_2012_12_14_68: -1035061546
+      sprite_base_addon_2012_12_14_69: 1118965885
+      sprite_base_addon_2012_12_14_7: 1108527673
+      sprite_base_addon_2012_12_14_70: 1441140014
+      sprite_base_addon_2012_12_14_71: 104819144
+      sprite_base_addon_2012_12_14_72: 1112926785
+      sprite_base_addon_2012_12_14_73: 1250556366
+      sprite_base_addon_2012_12_14_74: 1620047707
+      sprite_base_addon_2012_12_14_75: 520606205
+      sprite_base_addon_2012_12_14_76: 1452994319
+      sprite_base_addon_2012_12_14_77: 1584346660
+      sprite_base_addon_2012_12_14_78: 1071427917
+      sprite_base_addon_2012_12_14_79: -442301764
+      sprite_base_addon_2012_12_14_8: 1758076886
+      sprite_base_addon_2012_12_14_80: 121898084
+      sprite_base_addon_2012_12_14_81: -816864422
+      sprite_base_addon_2012_12_14_82: -509082586
+      sprite_base_addon_2012_12_14_83: -1753162176
+      sprite_base_addon_2012_12_14_84: 1503916566
+      sprite_base_addon_2012_12_14_85: -894325538
+      sprite_base_addon_2012_12_14_86: -1476899187
+      sprite_base_addon_2012_12_14_87: 926839584
+      sprite_base_addon_2012_12_14_88: -1624210849
+      sprite_base_addon_2012_12_14_89: -731187058
+      sprite_base_addon_2012_12_14_9: 927082057
+      sprite_base_addon_2012_12_14_90: 1706065712
+      sprite_base_addon_2012_12_14_91: -1516205161
+      sprite_base_addon_2012_12_14_92: 1322221281
+      sprite_base_addon_2012_12_14_93: 2066992826
+      sprite_base_addon_2012_12_14_94: 1294998271
+      sprite_base_addon_2012_12_14_95: 622090627
+      sprite_base_addon_2012_12_14_96: 648199437
+      sprite_base_addon_2012_12_14_97: -2044248845
+      sprite_base_addon_2012_12_14_98: -117963271
+      sprite_base_addon_2012_12_14_99: -911920805
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
